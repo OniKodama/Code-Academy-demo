@@ -1,0 +1,35 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-attachment: fixed;
+  background-color: lightgray;
+}
+header {
+  position: relative;
+  max-width: 1400px;
+  margin: 0;
+  padding: 5px 5px;
+  background-color: white;
+}
+
+nav button {
+  float: right;
+}
+
+.login_boton {
+  color: darkcyan;
+  border: 1px solid;
+  border-color: darkcyan;
+  float: right;
+  display: block;
+  margin: -50px 250px;
+  padding: 10px 10px;
+}
+.SignUp_boton {
+  background-color: lightblue;
+  color: white;
+  padding: 10px 10px;
+  border: none;
+  float: right;
+  margin: -50px 150px;
+}
